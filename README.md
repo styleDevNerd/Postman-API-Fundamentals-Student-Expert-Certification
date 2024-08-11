@@ -1,1 +1,0 @@
-# Postman-API-Fundamentals-Student-Expert-Certification
